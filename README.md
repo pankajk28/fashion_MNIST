@@ -1,0 +1,2 @@
+# fashion_MNIST
+Image classification is a very popular problem. We are given are set of images from Fashion MNIST dataset and all are labelled with a category.We we are asked to predict these categories for a novel set of test images and measure the accuracy of the predictions. Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
